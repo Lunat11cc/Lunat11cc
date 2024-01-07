@@ -1,13 +1,13 @@
-<h1>Добро пожаловать <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
+<h1 align="center">Добро пожаловать <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 <br>
 
-<h3>Обо мне 💬</h3>
+<h1>Обо мне 💬</h1>
 
 <h4>🔥 Дизайнер</h4>
 <h4>💻 Frontend-разработчик</h4>
 <br>
 
-<h3>Мои навыки 🛠️</h3>
+<h1>Мои навыки 🛠️</h1>
 
 <h4>Языки программирования и разметки</h4>
 
